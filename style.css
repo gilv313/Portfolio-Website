@@ -3,7 +3,7 @@
 :root {
     --primary-color: #ffffff;
     --primary-bright: #ffffff;
-    --bg-color: #3b1fa3;
+    --bg-color: #a622f8;
     --text-color: #ffffff;
     --card-bg: rgba(255,255,255,0.12);
     --card-border: rgba(255,255,255,0.25);
@@ -22,7 +22,6 @@ body {
     color: var(--text-color);
     line-height: 1.6;
     font-family: 'DM Sans', sans-serif;
-    background-image: url('image.jpg');
     background-position: center top;
     background-attachment: fixed;
     background-repeat: no-repeat;
